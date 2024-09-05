@@ -1196,7 +1196,7 @@ function getflag(e) {
         .split('')
         .map(e => 127397 + e.charCodeAt())
       // return String.fromCodePoint(...t).replace(/🇹🇼/g, '🇨🇳');
-      return String.fromCodePoint(...t).replace(/🇹🇼/g, '🇼🇸')
+      return String.fromCodePoint(...t).replace(/🇹🇼/g, '🇹🇼')
     } catch (e) {
       return ''
     }

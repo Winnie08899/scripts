@@ -30,5 +30,5 @@ tiles:
 
 script-providers:
   "网络信息 𝕏":
-    url: https://raw.githubusercontent.com/xream/scripts/main/surge/modules/network-info/net-lsp-x.js
+    url: https://raw.githubusercontent.com/Winnie08899/scripts/main/surge/modules/network-info/net-lsp-x.js
     interval: 86400
